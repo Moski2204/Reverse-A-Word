@@ -3,8 +3,8 @@ a word and the program outputs it in reversed form!
 
 Download both of the files, FirstProjectLaunchPage.java 
 and FirstProjectNewWindow.java. Then put them in a folder, and run 
-them on your IDE or using using terminal. The  FirstProjectLaunchPage.java 
-creates a pop-up window leading to FirstProjectNewWindow.java.
+them on your IDE or using using terminal. The FirstProjectLaunchPage.java 
+file creates a pop-up window leading to FirstProjectNewWindow.java.
 
 To open in a terminal, type in "cmd" into the location/address bar at the top of the window in your folder and press enter. Now terminal is open so type, "javac FirstProjectNewWindow.java" and press enter and then "javac FirstProjectLaunchPage.java" and press enter. Now to finally run the file, type, "java FirstProjectLaunchPage". Now the program will run.
 
