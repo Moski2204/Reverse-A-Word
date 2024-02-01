@@ -1,4 +1,4 @@
-This is the first of many java side projects that
+This is the first of many Java side projects that
 I plan to work on in the near future.
 
 This is a small Java project where the user inputs
