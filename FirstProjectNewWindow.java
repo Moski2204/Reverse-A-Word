@@ -7,6 +7,7 @@ import java.awt.event.KeyListener;
 
 public class FirstProjectNewWindow extends JFrame implements KeyListener{
 
+
     JButton button;
     JButton buttonTwo;
     JTextField textField;
@@ -52,7 +53,7 @@ public class FirstProjectNewWindow extends JFrame implements KeyListener{
             this.setVisible(true);
 
             // Add action listener to the button
-            button.addActionListener(new ActionListener() {
+            buttonTwo.addActionListener(new ActionListener() {
                 @Override
                 public void actionPerformed(ActionEvent e) {
                     reverseText();
