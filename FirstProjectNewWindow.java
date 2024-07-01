@@ -92,6 +92,7 @@ public class FirstProjectNewWindow extends JFrame implements KeyListener{
             reversed = reversed + str.charAt(i);
             System.out.print(str.charAt(i) + "");
         }
+        System.out.println();
         //outputting the answer into the output textField.
         textFieldTwo.setText(reversed);
 
